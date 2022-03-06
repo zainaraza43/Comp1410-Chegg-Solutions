@@ -1,4 +1,4 @@
-// Same solution as sol.cpp
+// Same solution as sol1.cpp
 // https://www.chegg.com/homework-help/questions-and-answers/write-function-sum-oddinarray-returns-sum-odd-integers-array-function-also-count-number-od-q93510960
 
 #include <iostream>
