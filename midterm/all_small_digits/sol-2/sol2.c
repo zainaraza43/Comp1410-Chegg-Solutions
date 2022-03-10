@@ -1,4 +1,4 @@
-// https://www.chegg.com/homework-help/questions-and-answers/use-recursion-write-function-smalldigits-returns-true-digits-given-number-small-0-1-2-3-4--q93515249
+// https://www.chegg.com/homework-help/questions-and-answers/c-language-use-recursion-write-function-allsmalldigits-returns-true-digits-given-number-sm-q93538921
 
 #include <stdio.h>
 int all_small_digits(int n)
