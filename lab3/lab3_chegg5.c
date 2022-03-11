@@ -1,12 +1,11 @@
-/ matrix.c
+// matrix.c
 
 #include <stdio.h>
 #include <assert.h>
 #include <stdbool.h>
 
-    // following method return true if matrix a and b are equal
-    bool
-    matrix_equals(const int n, const int m, const int *a, const int *b);
+// following method return true if matrix a and b are equal
+bool matrix_equals(const int n, const int m, const int *a, const int *b);
 
 // following method negate the row# r of matric a
 void negate_row(const int n, const int m, int *a, int r);
